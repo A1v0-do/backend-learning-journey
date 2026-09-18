@@ -28,3 +28,5 @@ else:
         print("I believe I am a genius")
     else:
         print("I am stupid")
+
+        
